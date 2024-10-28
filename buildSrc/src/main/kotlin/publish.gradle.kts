@@ -61,7 +61,7 @@ publishing {
                     version = "$version-SNAPSHOT"
                 }
                 description.set("A template for Kotlin Android projects")
-                url.set("https://github.com/cortinico/kotlin-android-template/")
+                url.set("https://github.com/motasem91/librarydemo/")
 
                 licenses {
                     license {
@@ -71,18 +71,18 @@ publishing {
                 }
                 developers {
                     developer {
-                        id.set("cortinico")
-                        name.set("Nicola Corti")
+                        id.set("motasem91")
+                        name.set("motasem91")
                     }
                 }
                 scm {
-                    connection.set("scm:git:git://github.com/cortinico/kotlin-android-template.git")
-                    developerConnection.set("scm:git:ssh://github.com/cortinico/kotlin-android-template.git")
-                    url.set("https://github.com/cortinico/kotlin-android-template/")
+                    connection.set("scm:git:git://github.com/motasem91/librarydemo.git")
+                    developerConnection.set("scm:git:ssh://github.com/motasem91/librarydemo.git")
+                    url.set("https://github.com/motasem91/librarydemo/")
                 }
                 issueManagement {
                     system.set("GitHub Issues")
-                    url.set("https://github.com/cortinico/kotlin-android-template/issues")
+                    url.set("https://github.com/motasem91/librarydemo/issues")
                 }
             }
         }
